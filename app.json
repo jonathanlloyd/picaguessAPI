@@ -1,0 +1,6 @@
+{
+  "name": "Pinktastic Game API",
+  "description": "Game API for the British Library Open Data Project",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"]
+}
